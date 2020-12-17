@@ -20,6 +20,7 @@ Para lograr esto vamos a usar Babel, para escribir código moderno y lo conviert
 * Preset-env: Para configurar Babel.
 * Plugin-transform-runtime: Para no tener problema con códigos async/await.
 
+**Seguimos...**
 * Crear un archivo llamado “.babelrc” en la raíz de la api, para escribir las configuraciones.
 ```javascript
 {
