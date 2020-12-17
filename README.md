@@ -14,11 +14,11 @@ Para lograr esto vamos a usar Babel, para escribir código moderno y lo conviert
 `npm i @babel/core @babel/cli @babel/node @babel/preset-env @babel/plugin-transform-runtime -D`	
 
 **Que es cada cosa...**
-*Core: Modulo principal de babel.
-*Cli: Para utilizar babel desde consola.
-*Node: Para usar babel adentro de node.
-*Preset-env: Para configurar Babel.
-*Plugin-transform-runtime: Para no tener problema con códigos async/await.
+* Core: Modulo principal de babel.
+* Cli: Para utilizar babel desde consola.
+* Node: Para usar babel adentro de node.
+* Preset-env: Para configurar Babel.
+* Plugin-transform-runtime: Para no tener problema con códigos async/await.
 
 * Crear un archivo llamado “.babelrc” en la raíz de la api, para escribir las configuraciones.
 ```javascript
@@ -75,9 +75,9 @@ Usando la sintaxis moderna de “import”
   },
 ```
 
-*Dev: Para ejecutar con babel-node el src/index.js con nodemon.
-*Build: Para hacer un build en la carpeta dist de la api para prod.
-*Start: Ejecuta la api en prod ya con su build en la carpeta dist.
+* Dev: Para ejecutar con babel-node el src/index.js con nodemon.
+* Build: Para hacer un build en la carpeta dist de la api para prod.
+* Start: Ejecuta la api en prod ya con su build en la carpeta dist.
 
 Con este último punto, finalizamos la guía.
 
