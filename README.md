@@ -1,4 +1,4 @@
-Voy a explicar como empezar una api de cero con node.js mas Express.js para usar la sintaxis moderna de JavaScript.
+Guia para empezar una api de cero con node.js mas Express.js para usar la sintaxis moderna de JavaScript.
 
 Para lograr esto vamos a usar Babel, para escribir código moderno y lo convierte a un código que lo entienda la mayoría de los navegadores.
 
